@@ -1,0 +1,21 @@
+
+
+.credits > h2 {
+    padding: 0px;
+    margin: 3px;
+    padding: 0px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 35px;
+}
+
+
+.credits > p{
+    padding: 0px;
+    margin: 3px;
+}
+
+br {
+    padding: 100px;
+}
